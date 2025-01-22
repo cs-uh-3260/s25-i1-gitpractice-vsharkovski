@@ -9,8 +9,12 @@ On the other hand, they're extremely optimized and have a ton of features.
 SQLite is different and they basically call it 'a replacement for `fopen`.'
 Basically, it is extremely light-weight and can be included anywhere as a header-only C library or through another language API.
 It doesn't have many features, but it's extremely fast.
-They call it a replacement for fopen because it is almost as fast and works with SQL.
-In other words, you can make a database for your application, and it is extremely lightweight and takes minimal setup.
+They call it a replacement for `fopen` because it is almost as fast and works with SQL.
+In other words, you can make a database for your application, and SQLite facilitates this while being light-weight and taking minimal setup.
 It seems ideal for small applications.
 
 With this context in mind, I encourage you to read the article. *My favorite facts are 1, 9, 14, and 17.*
+
+## Proof Reading
+
+Article checked for typos.
