@@ -18,3 +18,6 @@ With this context in mind, I encourage you to read the article. *My favorite fac
 ## Proof Reading
 
 Article checked for typos.
+
+## Khaleeqa's Comments
+I think for fun fact # 9 it's very impressive that they were able to conduct such thorough testing to the point where there are 600 lines of test code per each line of SQL, that's a bit insane imo!
