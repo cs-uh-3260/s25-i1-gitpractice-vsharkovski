@@ -18,3 +18,8 @@ With this context in mind, I encourage you to read the article. *My favorite fac
 ## Proof Reading
 
 Article checked for typos.
+
+
+### Notes from Boubacar Ballo
+
+Really cool article! I have never used SQLite myself but I've only heard good things about it. My favorite fact is definitely 5. Super cool that it all came down to making an operations on a battleship more efficient to have the tool we got today.
