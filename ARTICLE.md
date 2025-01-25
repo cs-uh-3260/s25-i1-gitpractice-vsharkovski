@@ -18,3 +18,7 @@ With this context in mind, I encourage you to read the article. *My favorite fac
 ## Proof Reading
 
 Article checked for typos.
+
+## Fork Pull Request
+
+The pull request for another student's repository, created in the forking workflow, can be found [here](https://github.com/cs-uh-3260/s25-i1-gitpractice-Khaleeks-1/pull/2).
