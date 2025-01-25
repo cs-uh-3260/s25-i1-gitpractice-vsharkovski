@@ -27,6 +27,6 @@ The pull request for another student's repository, created in the forking workfl
 
 I think for fun fact # 9 it's very impressive that they were able to conduct such thorough testing to the point where there are 600 lines of test code per each line of SQL, that's a bit insane imo!
 
-### Notes from Boubacar Ballo
+## Notes from Boubacar Ballo
 
 Really cool article! I have never used SQLite myself but I've only heard good things about it. My favorite fact is definitely 5. Super cool that it all came down to making an operations on a battleship more efficient to have the tool we got today.
