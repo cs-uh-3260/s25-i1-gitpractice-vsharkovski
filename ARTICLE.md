@@ -24,4 +24,9 @@ Article checked for typos.
 The pull request for another student's repository, created in the forking workflow, can be found [here](https://github.com/cs-uh-3260/s25-i1-gitpractice-Khaleeks-1/pull/2).
 
 ## Khaleeqa's Comments
+
 I think for fun fact # 9 it's very impressive that they were able to conduct such thorough testing to the point where there are 600 lines of test code per each line of SQL, that's a bit insane imo!
+
+### Notes from Boubacar Ballo
+
+Really cool article! I have never used SQLite myself but I've only heard good things about it. My favorite fact is definitely 5. Super cool that it all came down to making an operations on a battleship more efficient to have the tool we got today.
